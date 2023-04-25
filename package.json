@@ -31,7 +31,7 @@
 		"eslint": "^8.34.0",
 		"eslint-config-prettier": "^8.6.0",
 		"eslint-plugin-svelte3": "^4.0.0",
-		"flowbite": "^1.6.3",
+		"flowbite": "^1.6.5",
 		"flowbite-svelte": "^0.29.13",
 		"flowbite-svelte-blocks": "^0.1.6",
 		"postcss": "^8.4.21",
@@ -61,5 +61,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/shinokada/flowbite-svelte-starter.git"
+	},
+	"dependencies": {
+		"@popperjs/core": "^2.11.7",
+		"classnames": "^2.3.2"
 	}
 }
