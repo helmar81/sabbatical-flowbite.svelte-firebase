@@ -8,7 +8,9 @@ const config = {
 		extend: {}
 	},
 
-	plugins: [require('flowbite/plugin')],
+	plugins: [require('flowbite/plugin'), ('tw-elements/dist/plugin'), ('@tailwindcss/forms'),('@tailwindcss/aspect-ratio')],
+
+	
 	darkMode: 'class'
 };
 
