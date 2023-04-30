@@ -75,7 +75,7 @@
         <img class="h-auto max-w-full rounded-lg" src="../cutie.jpg" alt="">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="/t10pcoco.jpg" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="/t10pcoco.jpg" alt="Helmar Baechle">
     </div>
     <div>
         <img class="h-auto max-w-full rounded-lg" src="/p2pbeauty.jpg" alt="">
@@ -84,7 +84,7 @@
         <img class="h-auto max-w-full rounded-lg" src="../mor6p.jpg" alt="">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="../p10plorelyn.jpg" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="../p10plorelyn.jpg" alt="Lorelyn David">
     </div>
     <div>
         <img class="h-auto max-w-full rounded-lg" src="../v23p.jpg" alt="">
@@ -102,7 +102,7 @@
         <img class="h-auto max-w-full rounded-lg" src="/sunset.jpg" alt="">
     </div>
     <div>
-        <img class="h-auto max-w-full rounded-lg" src="../ivory.jpg" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="../ivory.jpg" alt="Helmar Bachle">
     </div>
     <div>
         <img class="h-auto max-w-full rounded-lg" src="../t51pmassage.jpg" alt="">
@@ -143,9 +143,7 @@
     <div>
         <img class="h-auto max-w-full rounded-lg" src="../t3p.jpg" alt="">
     </div>
-    <div>
-        <img class="h-auto max-w-full rounded-lg" src="../indiaWTCme.jpg" alt="">
-    </div>
+    
 
     <div>
         <img class="h-auto max-w-full rounded-lg" src="../b16.jpg" alt="">
