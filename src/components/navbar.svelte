@@ -91,6 +91,28 @@
 				>Pictures</a
 			  >
 			</li>
+
+			<li data-te-nav-item-ref>
+				<a
+				  class="block transition duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-white dark:focus:text-white md:p-2 [&.active]:border-primary [&.active]:text-primary "
+				  href="/video"
+				  data-te-nav-link-ref
+				  data-te-ripple-init
+				  data-te-ripple-color="light"
+				  >Video</a
+				>
+			  </li>
+
+			  <li data-te-nav-item-ref>
+				<a
+				  class="block transition duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-white dark:focus:text-white md:p-2 [&.active]:border-primary [&.active]:text-primary "
+				  href="mailto:	globaltraveller58@gmail.com"
+				  data-te-nav-link-ref
+				  data-te-ripple-init
+				  data-te-ripple-color="light"
+				  >Contact</a
+				>
+			  </li>
 		  </ul>
 		</div>
 	  </div>

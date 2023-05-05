@@ -29,7 +29,7 @@
 			  data-te-ripple-init
 			  data-te-ripple-color="light">
 			  <!-- svelte-ignore a11y-missing-content -->
-			  <a href="/pictures">available</a>
+			  <a href="mailto:	globaltraveller58@gmail.com">Say Hi!!!</a>
 			  
 			</button>
 		  </div>
