@@ -13,7 +13,7 @@
 	  class="relative overflow-hidden bg-cover bg-no-repeat p-12 text-center bg-blend-multiply"
 	  style="
 		background-image: url('../t26piano.jpg');
-		height: 400px;
+		height: 558px;
 	  ">
 	  <div
 		class="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-fixed"
