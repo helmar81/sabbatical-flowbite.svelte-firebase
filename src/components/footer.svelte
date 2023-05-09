@@ -16,7 +16,11 @@
     <Button pill size="xl" color="alternative"><a href="/people"
 		>People</a></Button>
     <Button pill size="xl" color="alternative"><a href="/pictures"
-		>Pictures</a></Button>
+      >Pictures</a></Button>
+    <Button pill size="xl" color="alternative"><a href="/video"
+      >Video</a></Button>
+      <Button pill size="xl" color="alternative"><a href="/"
+        >Home</a></Button>
 </div>
 
 

@@ -72,6 +72,7 @@
 		"@popperjs/core": "^2.11.7",
 		"classnames": "^2.3.2",
 		"firebase": "^9.21.0",
+		"next-pwa": "^5.6.0",
 		"sveltekit-adapter-aws": "^4.5.1",
 		"sveltekit-adapter-firebase": "^0.1.13",
 		"tw-elements": "^1.0.0-beta2"
