@@ -1,8 +1,8 @@
 # Flowbite-Svelte-Starter
 
-## Demo
+## Web App
 
-[Demo site](https://flowbite-svelte-starter.vercel.app/)
+[Demo site](https://sabbatical-amazon.netlify.app/)
 
 ## Stack details
 
