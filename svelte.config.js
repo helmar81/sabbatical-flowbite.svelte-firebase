@@ -20,8 +20,12 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-		inlineStyleThreshold: Infinity
+		inlineStyleThreshold: Infinity,
+
+		serviceWorker: {
+			register: false
 	}
+}
 };
 
 export default config;
