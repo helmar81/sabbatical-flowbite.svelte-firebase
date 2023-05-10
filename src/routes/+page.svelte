@@ -12,7 +12,7 @@
 	<div
 	  class="relative overflow-hidden bg-cover bg-no-repeat p-12 text-center bg-blend-multiply"
 	  style="
-		background-image: url('../t26piano.jpg');
+		background-image: url('../t26piano.webp');
 		height: 388px;
 	  ">
 	  <div
